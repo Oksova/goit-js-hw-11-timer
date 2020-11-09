@@ -1,0 +1,12 @@
+body{
+    background-image: url('./images/sapog.jpg');
+    background-size:  cover; 
+ background-position: center;
+}
+
+.timer {
+text-align: center;
+  font-size: 28px;
+  line-height: 1.5;
+  color: black;
+}
